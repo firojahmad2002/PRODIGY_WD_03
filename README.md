@@ -1,1 +1,4 @@
-# PRODIGY_WD_03
+# Tic Tac Toe
+## Using only HTML + CSS + JS
+
+<img src="game.png" alt="game" style="margin-left: 15px;" />
